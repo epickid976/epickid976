@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, playing the Piano, & French (or Linguistics in general)
 - 🌱 I’m currently learning Swift and will soon learn HTML & CSS (already fluent in JavaScript)
 - 💞️ I’m looking to collaborate on any coding project
-- 📫 How to reach me epickid976@gmail.com
+- 📫 How to reach me joseph@jbdevelopment.dev
 
 <!---
 epickid976/epickid976 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
